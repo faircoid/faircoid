@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+FAIRCO Id
+- Comes from FAIR COarse+COllective ID 
+- Like Bitcoin : free, mondial
+- Twitter @faircoid for user info = vulgarization
