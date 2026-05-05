@@ -20,12 +20,12 @@ FAIRCO Id
 - Like Bitcoin : free, mondial
 - Twitter @faircoid for user info = vulgarization
 - Aims :
-  -- international
-  -- accessible (remotely, not like @worldnetwork)
-  -- free
-  -- devs friendly (not like state Identité Numérique, La Poste) :free by this Open Source project
-  -- distributed (from near by near, the network diffuses)
-  -- unicity (first, by official state footprint validation)
-  -- hierarchic only for validation and branch revocation : not sure branch can be revoked
+  - international
+  - accessible (remotely, not like @worldnetwork)
+  - free
+  - devs friendly (not like state Identité Numérique, La Poste) :free by this Open Source project
+  - distributed (from near by near, the network diffuses)
+  - unicity (first, by official state footprint validation)
+  - hierarchic only for validation and branch revocation : not sure branch can be revoked
   -- fight against pitfall of WorlId : you can not give your keys to another for fraudulent commercial use.  
 
