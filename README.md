@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 FAIRCO Id
 - Comes from FAIR COarse + COllective = distributed ID 
 - Like Bitcoin : freedom, mondial, self-custodial
-- Twitter @faircoid for user info = vulgarization
+<!-- - Twitter @faircoid for user info = vulgarization -->
 - Aims :
   - international
   - accessible (remotely, not like @worldnetwork)
