@@ -35,6 +35,6 @@ FAIRCO Id
   - the hash will be recorded with the judge  FairCo Id
   - each FairCo Id is in a relative treeish  graph with a confidence level, changing with events, branch or edge removal if any doubt, ...
   - let an issue here if you request an identification to obtain your FairCo Id
-  - physical id card exploration will have high confidence level
+  - physical id card exploration will have high confidence level, based on photo, fingerprint in future
   - remote one by unidirectional cam will give lower but valid FairCo Id level
-
+  - to solve ( see #1 ), re-identification process can be requested
