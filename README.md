@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 FAIRCO Id
-- This repository is the single source of truth
-- Comes from FAIR COarse + COllective = distributed ID 
+- This repository is the single source of truth, and **current** only purely printable characters are official (for example, not in Markdown comment, not passed commits because it can be wrong and corrected afterwards)
+- Comes from FAIRly COarse + COllective=distributed ID 
 - Like Bitcoin : freedom, mondial, self-custodial
-<!-- - Twitter @faircoid for user info = vulgarization -->
+<!-- - Twitter @ for user info = vulgarization -->
 - Aims :
   - international
   - accessible (remotely, not like @worldnetwork)
   - minimal cost, free if possible
-  - devs friendly (not like state Identité Numérique, La Poste) :free by this Open Source project
+  - devs friendly (not like state Identité Numérique, La Poste, ...) : free by this Open Source project
   - distributed (from human to another one, the network diffuses)
   - unicity ( by official state documents validation )
   - hierarchic only for validation and branch revocation : not sure branch can be revoked
@@ -35,6 +35,7 @@ FAIRCO Id
   - the hash will be recorded with the judge  FairCo Id
   - each FairCo Id is in a relative treeish  graph with a confidence level, changing with events, branch or edge removal if any doubt, ...
   - let an issue here if you request an identification to obtain your FairCo Id
-  - physical id card exploration will have high confidence level, based on photo, fingerprint in future
-  - remote one by unidirectional cam will give lower but valid FairCo Id level
+  - physical id card exploration will have high confidence level, based on **photo**, fingerprint in future
+  - remote one by unidirectional cam will give lower but valid FairCo Id **level**
   - to solve ( see #1 ), re-identification process can be requested
+  - any app dev can request certain **level** of confidence
