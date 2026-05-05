@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 FAIRCO Id
+- This repository is the single source of truth
 - Comes from FAIR COarse + COllective = distributed ID 
 - Like Bitcoin : freedom, mondial, self-custodial
 <!-- - Twitter @faircoid for user info = vulgarization -->
@@ -24,8 +25,16 @@ FAIRCO Id
   - accessible (remotely, not like @worldnetwork)
   - minimal cost, free if possible
   - devs friendly (not like state Identité Numérique, La Poste) :free by this Open Source project
-  - distributed (from near by near, the network diffuses)
+  - distributed (from human to another one, the network diffuses)
   - unicity ( by official state documents validation )
   - hierarchic only for validation and branch revocation : not sure branch can be revoked
   - fight against pitfall of WorlId : you can not give your keys to another for fraudulent commercial use.  
+
+- Means :
+  - from now, only official state identity card will be looked at, number will be hashed and published in this repository as ids.txt file, if and only card is juged official.
+  - the hash will be recorded with the judge  FairCo Id
+  - each FairCo Id is in a relative treeish  graph with a confidence level, changing with events, branch or edge removal if any doubt, ...
+  - let an issue here if you request an identification to obtain your FairCo Id
+  - physical id card exploration will have high confidence level
+  - remote one by unidirectional cam will give lower but valid FairCo Id level
 
