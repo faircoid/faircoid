@@ -25,7 +25,7 @@ FAIRCO Id
   - minimal cost, free if possible
   - devs friendly (not like state Identité Numérique, La Poste) :free by this Open Source project
   - distributed (from near by near, the network diffuses)
-  - unicity ( [v0.8.0-alpha](https://github.com/faircoid/faircoid/releases/tag/v0.8.0-alpha) , by official state footprint validation)
+  - unicity ( by official state documents validation )
   - hierarchic only for validation and branch revocation : not sure branch can be revoked
   - fight against pitfall of WorlId : you can not give your keys to another for fraudulent commercial use.  
 
