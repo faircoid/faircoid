@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 FAIRCO Id
 - Comes from FAIR COarse + COllective = distributed ID 
-- Like Bitcoin : free, mondial
+- Like Bitcoin : freedom, mondial, self-custodial
 - Twitter @faircoid for user info = vulgarization
 - Aims :
   - international
   - accessible (remotely, not like @worldnetwork)
-  - free
+  - minimal cost, free if possible
   - devs friendly (not like state Identité Numérique, La Poste) :free by this Open Source project
   - distributed (from near by near, the network diffuses)
-  - unicity (first, by official state footprint validation)
+  - unicity (v0.6.0-alpha , by official state footprint validation)
   - hierarchic only for validation and branch revocation : not sure branch can be revoked
-  -- fight against pitfall of WorlId : you can not give your keys to another for fraudulent commercial use.  
+  - fight against pitfall of WorlId : you can not give your keys to another for fraudulent commercial use.  
 
