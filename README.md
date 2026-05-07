@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 FAIRCO Id
 - This repository is the single source of truth, and **current** only purely printable characters are official (for example, not in Markdown comment, not passed commits because it can be wrong and corrected afterwards)
-- Comes from FAIRly COarse + COllective=distributed ID 
+- Comes from FAIRly COarse + COllective=distributed IDentity
 - Like Bitcoin : freedom, mondial, self-custodial
 <!-- - Twitter @ for user info = vulgarization -->
 - Aims :
