@@ -19,7 +19,7 @@ FAIRCO Id
 - This repository is the single source of truth, and **current** only purely printable characters are official (for example, not in Markdown comment, not passed commits because it can be wrong and corrected afterwards)
 - Comes from FAIRly COarse + COllective=distributed IDentity
 - Like Bitcoin : freedom, mondial, self-custodial
-<!-- - Twitter @ for user info = vulgarization -->
+- Twitter X.com [@faircoid](https://x.com/faircoid) for user info = vulgarization
 - Aims :
   - international
   - accessible (remotely, not like @worldnetwork)
